@@ -1,0 +1,5 @@
+#!/home/mgdelacroix/.rvm/rubies/ruby-1.9.3-p545/bin/ruby
+require 'stuffer/stuffer'
+
+stuffer = Stuffer::Stuffer.new
+stuffer.print
